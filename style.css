@@ -1,0 +1,104 @@
+body{
+	margin: 0;
+    padding: 0;
+}
+.topo{
+	height: 50px;
+	background-color: #1c1c1c;
+}
+.topointerior{
+	width: 1000px;
+	margin: auto;
+	color: #ffffff;
+}
+.logomarca{
+	float: left;
+	font-size: 24px;
+	line-height: 50px;
+}
+.menu{
+	float: right;
+}
+.menu ul,
+.menu li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.menu li{
+	float: left;
+	padding-left:10px ;
+	line-height:50px ;
+	font-size: 14px;
+	cursor: pointer;
+}
+.menu li:hover{
+background-color: orangered;
+}
+.baner{
+	height: 300px;
+	background-color: orangered;
+}
+.banerinterior{
+	width: 1000px;
+	margin: auto;
+}
+.baneresquerda{
+	float: left;
+}
+.banerdireita{
+	float: right;
+
+}
+.banerdireita img{
+	height: 300px;
+	width: 350px;
+	margin border-right: 55px;
+}
+.frase1{
+	font-size: 48px;
+	color: #363636;
+	margin-top: 60px;
+}
+.frase2{
+	font-size: 20px;
+	color: #363636;
+}
+.botao{
+	background-color: #ffc001;
+	width: 282px;
+	height: 56px;
+	font-size: 20px;
+	text-align: center;
+	line-height: 56px;
+	margin-top: 20px;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+.conteudointerno{
+	width: 1000px;
+	margin: auto;
+
+}
+.skins{
+	font-size: 30px;
+	height: 100px;
+	text-align: center;
+	line-height: 100px;
+	font-family: cursive;
+}
+.fotos img{
+	margin-left: 20px;
+	margin right: 20px;
+	cursor: pointer;
+}
+.rodape{
+	background-color: firebrick;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	text-decoration: underline;
+	color: whitesmoke;
+	margin-top: 40px;
+}
